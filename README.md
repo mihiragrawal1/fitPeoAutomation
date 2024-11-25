@@ -47,5 +47,5 @@ test-output/index.html
 
 📞 Contact
 For any queries, reach out to:
-* Name: Your Name
-* Email: your-mihiragrawal000@gmail.com
+* Name: Mihir Agrawal
+* Email: mihiragrawal000@gmail.com
