@@ -22,7 +22,7 @@ This project automates testing for the Revenue Calculator feature. It includes t
 3. Install a compatible IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
 4. Install **Google Chrome** and the corresponding **ChromeDriver** version.
 5. Clone this repository using:
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/mihiragrawal1/fitPeoAutomation.git
 
 📜 Running the Scripts
 Using Maven Commands
