@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-25T22:43:27 IST" name="Default suite" finished-at="2024-11-25T22:44:15 IST" duration-ms="47944">
+    <groups>
+    </groups>
+    <test started-at="2024-11-25T22:43:27 IST" name="Default test" finished-at="2024-11-25T22:44:15 IST" duration-ms="47944">
+      <class name="TestScripts.Test1">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestScripts.Test1@7161d8d1]" started-at="2024-11-25T22:43:27 IST" name="launchBrowser" finished-at="2024-11-25T22:44:03 IST" duration-ms="36098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestScripts.Test1@7161d8d1]" started-at="2024-11-25T22:44:03 IST" name="setup" finished-at="2024-11-25T22:44:03 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="go_to_revenueCalculator_AdjustSlider()[pri:0, instance:TestScripts.Test1@7161d8d1]" started-at="2024-11-25T22:44:03 IST" name="go_to_revenueCalculator_AdjustSlider" description="task1 and 2-to set slider to 820 and then to 560 by entering value to input feild and validate" finished-at="2024-11-25T22:44:04 IST" duration-ms="1319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- go_to_revenueCalculator_AdjustSlider -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestScripts.Test1@7161d8d1]" started-at="2024-11-25T22:44:04 IST" name="closeBrowser" finished-at="2024-11-25T22:44:05 IST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestScripts.Test1@7161d8d1]" started-at="2024-11-25T22:44:05 IST" name="launchBrowser" finished-at="2024-11-25T22:44:11 IST" duration-ms="5673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestScripts.Test1@7161d8d1]" started-at="2024-11-25T22:44:11 IST" name="setup" finished-at="2024-11-25T22:44:11 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="task_three_toSelectCardsAndValidateAmount()[pri:0, instance:TestScripts.Test1@7161d8d1]" started-at="2024-11-25T22:44:11 IST" name="task_three_toSelectCardsAndValidateAmount" description="task 3- to select the cpt codes and get total reimbursement value and validate" finished-at="2024-11-25T22:44:14 IST" duration-ms="3247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task_three_toSelectCardsAndValidateAmount -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestScripts.Test1@7161d8d1]" started-at="2024-11-25T22:44:14 IST" name="closeBrowser" finished-at="2024-11-25T22:44:15 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScripts.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
